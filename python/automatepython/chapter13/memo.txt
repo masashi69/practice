@@ -1,0 +1,24 @@
+
+### wordライブラリ
+* import docx
+
+* doc = docx.Document()
+
+### 文章書き込み
+
+* doc.add_paragraph('xxx')
+
+### 追記
+* add_run('xxx')
+
+### 保存
+* doc.save('xxx')
+
+### 見出し
+* add_header('header', 0-4)
+
+### 改ページ
+* add_break()
+
+### 画像追加
+* add_pictures('file', width, height)

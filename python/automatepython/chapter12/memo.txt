@@ -1,0 +1,42 @@
+
+### モジュール
+
+* openpyxl
+
+### ファイルオープン
+
+* openpyxl.load_workbook('filename')
+
+### シート選択関数
+
+* get_sheet_by_name('sheetname')
+
+### アクティブシート選択関数
+
+* get_active_sheet()
+
+### 最終行
+
+* get_highest_row()
+
+* max_row
+
+### シート作成
+
+* create_sheet()
+
+### シート削除
+
+* remove_sheet(get_sheet_by_name())
+
+### セル操作
+
+* sheet['A1'] = xxx
+* sheet['A1'].value
+
+* 関数もOK
+
+### 保存
+
+* save('filename')
+

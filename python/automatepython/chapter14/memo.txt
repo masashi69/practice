@@ -1,0 +1,8 @@
+
+### ファイル読み込み
+
+csv.reader('xxx')
+
+### ファイル書き込み
+
+csv.writer('xxx')

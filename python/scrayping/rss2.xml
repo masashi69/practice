@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Tue, 15 Aug 2017 13:52:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2017年8月15日　ふるいTLSにはサヨナラを ―Debian，TLS 1.2対応を強化 ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201708/15</link>
+  <description>2014年に世界中を震撼させたOpenSSLの脆弱性「Heartbleed」が発見されて以来，SSL 3.0やTLS 1.0/1.1といった旧バージョンの暗号化プロトコルからTLS 1.2へと移行する動きは加速している。</description>
+  <pubDate>Tue, 15 Aug 2017 13:43:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201708/15</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年8月14日　GNOME 3.26のベータ版が登場，正式リリースは9月13日に ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201708/14</link>
+  <description>GNOMEプロジェクトのMichael Catanzaroは8月13日，GNOMEの次期バージョン「GNOME 3.26」のベータ版である「GNOME 3.25.90」の公開を発表した。</description>
+  <pubDate>Mon, 14 Aug 2017 17:55:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201708/14</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2017年8月14日　けっこうかわいい眼帯くん ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/14</link>
+  <description>けっこうかわいい顔しているのです。</description>
+  <pubDate>Mon, 14 Aug 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/14</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年8月11日号　Ubuntu 16.04.3のリリース，git ubuntuコマンド・UWN#515 ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201708/11</link>
+  <description>16.04 LTSの3つめのポイントリリース，16.04.3がリリースされました。HWEカーネル（＋Xスタック）として17.04ベースのソースツリーを導入した，16.04 LTS系列の最新バージョンです。</description>
+  <pubDate>Fri, 11 Aug 2017 09:54:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201708/11</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>第111回　BSDカーネル脆弱性調査 ── BSD界隈四方山話</title>
+  <link>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0111</link>
+  <description>DEF CON 25 Hacking ConferenceでIlja van Sprundel氏が発表した「Are all BSDs created equally? A survey of BSD kernel vulnerabilies.」の内容を受けて，OpenBSD 6.0および6.1向けのカーネルパッチを公開したことが発表されました。</description>
+  <pubDate>Fri, 11 Aug 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/bsd-yomoyama">BSD界隈四方山話</category>
+  <guid>http://gihyo.jp/admin/serial/01/bsd-yomoyama/0111</guid> 
+  <author>後藤大地</author>
+ </item>
+ <item>
+  <title>「オープンデベロッパーカンファレンス2017」8月19，20日の2日間で開催～20日はLearn Languages 2017 in ODCも同時開催 ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2017/08/1002</link>
+  <description>2017年8月19，20日の2日間，日本工学院専門学校蒲田キャンパスにて，「オープンデベロッパーカンファレンス2017」が開催される。</description>
+  <pubDate>Thu, 10 Aug 2017 17:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2017/08/1002</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2017年8月10日　見えてきたJava 9 ―JDK 9の最初のリリース候補版が公開 ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201708/10</link>
+  <description>Oracleは8月9日（米国時間），Java JDK 9の最初のリリース候補（RC1）版となる「JDK 9 Early-Access Builds」を公開した。</description>
+  <pubDate>Thu, 10 Aug 2017 14:15:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201708/10</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>「エンジニアサポートCROSS 2017」9月8日に開催 ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2017/08/1001</link>
+  <description>Web技術を中心としたITに携わる人々が技術や業種を超えて集まり，学び合うイベント「エンジニアサポートCROSS」。通算6回目となる今回は9月8日，横浜港大さん橋ホールで開催される。</description>
+  <pubDate>Thu, 10 Aug 2017 14:05:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2017/08/1001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2017年8月第2週号 1位は，ウェブアクセシビリティを向上させるための10のガイドライン，気になるネタはDeNAのファッションメディア「MERY」が年内復活へ――小学館と共同出資会社を設立 ── 週刊Webテク通信</title>
+  <link>http://gihyo.jp/design/clip/01/weekly-web-tech/201708/10</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2017年7月31日～8月6日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 10 Aug 2017 10:55:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>http://gihyo.jp/design/clip/01/weekly-web-tech/201708/10</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2017年8月10日　鶯谷のしろくろこ ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/10</link>
+  <description>「鶯谷」という駅は有っても，この名前の住所はないそうです。</description>
+  <pubDate>Thu, 10 Aug 2017 10:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/10</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>2017年8月第2週　Android O，8月中旬に正式リリースか？ ── Android Weekly Topics</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/awt/201708/10</link>
+  <description>2017年8月第2週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 10 Aug 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/awt/201708/10</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>「KDDIがソラコムの良さを消すことはありません」 ―KDDI，ソラコム合同記者会見 ── レポート</title>
+  <link>http://gihyo.jp/news/report/2017/08/0902</link>
+  <description>8月2日に発表されたKDDIのソラコム子会社化の発表を受け，8月8日（火）に両社による合同記者会見が行われました。</description>
+  <pubDate>Wed, 09 Aug 2017 16:56:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2017/08/0902</guid> 
+  <author>小坂浩史</author>
+ </item>
+ <item>
+  <title>2017年8月9日　麗しのはっつぁん ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/09</link>
+  <description>ねこ部超絶オキニの外ねこ，はっつぁんです。</description>
+  <pubDate>Wed, 09 Aug 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/09</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第483回　UbuntuとOpenNebulaでもういちどクラウド環境を構築してみよう ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0483</link>
+  <description>クラウド構築・管理ツールのOpenNebulaが，7月20日にOpenNebula 5.4 'Medusa'をリリースしました。今回は改めてUbuntuでのOpenNebula 5.4の環境構築を紹介します。</description>
+  <pubDate>Wed, 09 Aug 2017 10:10:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0483</guid> 
+  <author>大田晃彦</author>
+ </item>
+ <item>
+  <title>サイバーエージェントのエンジニアが「Go」言語を語る ～「オレシカナイト Vol.2」イベントレポート ── レポート</title>
+  <link>http://gihyo.jp/news/report/2017/08/0901</link>
+  <description>サイバーエージェントのメディアディベロップメント事業本部は，技術的挑戦によって経験することになった失敗を発表する「オレシカナイト」の第2弾を6月23日に開催しました。本稿ではその模様をレポートします。</description>
+  <pubDate>Wed, 09 Aug 2017 09:38:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2017/08/0901</guid> 
+  <author>川添貴生</author>
+ </item>
+ <item>
+  <title>2017年8月9日　ライブイメージのことはそれほど ―どうなるDebian Live ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201708/09</link>
+  <description>「ぶっちゃけ，僕自身はライブイメージを直接必要としていないし，ライブイメージのことはとくに気にもかけていない。」</description>
+  <pubDate>Wed, 09 Aug 2017 09:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201708/09</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title> 松田校長，平井聡一郎氏が登壇 「プログラミング教育」を考える「緊急職員会議」8/12に開催！ ── インフォメーション</title>
+  <link>http://gihyo.jp/news/info/2017/08/0801</link>
+  <description>8月12日（土），「『小学校の「プログラミング授業」実況中継』presents ～未来のまなびプロジェクト～ 夏の緊急職員会議2017実況中継！」と題したイベントが開催される。</description>
+  <pubDate>Tue, 08 Aug 2017 18:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/info">インフォメーション</category>
+  <guid>http://gihyo.jp/news/info/2017/08/0801</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2017年8月8日　ワールドキャットデーだからねこ社長 ── 技評ねこ部通信</title>
+  <link>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/08</link>
+  <description>地球上の75億（？）もの人間どもが，ねこおよびねこ族を崇めたたえる日。</description>
+  <pubDate>Tue, 08 Aug 2017 15:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/clip/01/everyday-cat">技評ねこ部通信</category>
+  <guid>http://gihyo.jp/lifestyle/clip/01/everyday-cat/201708/08</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>Scalaエンジニアの祭典「Scala福岡2017」参加レポート ── レポート</title>
+  <link>http://gihyo.jp/news/report/2017/08/0701</link>
+  <description>2017年7月29日，福岡の株式会社ヌーラボにて，Scala福岡コミュニティ主催の「Scala福岡2017」が開催されました。</description>
+  <pubDate>Tue, 08 Aug 2017 09:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/news/report">レポート</category>
+  <guid>http://gihyo.jp/news/report/2017/08/0701</guid> 
+  <author>加藤圭佑</author>
+ </item>
+ <item>
+  <title>第51回　MySQLのクライアントプログラムいろいろ［その1］ ── MySQL道普請便り</title>
+  <link>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0051</link>
+  <description>MySQLのパッケージにはMySQLサーバーであるmysqldの他に，いくつかのクライアントプログラムが付いてき（依存関係でインストールされ）ます。</description>
+  <pubDate>Tue, 08 Aug 2017 09:31:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>http://gihyo.jp/dev/serial/01/mysql-road-construction-news/0051</guid> 
+  <author>yoku0825</author>
+ </item>
+</channel>
+</rss>
